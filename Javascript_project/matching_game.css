@@ -1,10 +1,27 @@
 .nav{
-    height: 500px;
+    height: 200px;
     width: 1fr;
+    background-color: black;
 }
 
 
 #div{
     height: 250px;
     width: 100px;
+}
+
+.image1{
+    height: 150px;
+    width: 75px;
+    background-color: black;
+}
+.image2{
+    height: 150px;
+    width: 75px;
+    background-color: black;
+}
+.image3{
+    height: 150px;
+    width: 75p;
+    background-color: black;
 }
