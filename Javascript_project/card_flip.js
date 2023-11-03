@@ -1,1 +1,1 @@
-<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'"> </button>
+<button onclick="document.getElementById('myImage').src=''"> </button>
