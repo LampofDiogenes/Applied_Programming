@@ -7,16 +7,11 @@
     font-size: xx-large;
 }
 
-
-#div{
-    height: 250px;
-    width: 100px;
-}
-
 .grid-layout{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
+    column-gap: 50px;
 }
 
 .image1{
